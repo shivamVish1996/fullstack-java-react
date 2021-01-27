@@ -1,0 +1,13 @@
+.customMargin {
+    margin-top: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #F8F8FF;
+ }
+
+@media screen and (min-width: 900px) {
+    .customMargin {
+       padding-left: 220px;
+       padding-right: 220px;
+    }
+  }
